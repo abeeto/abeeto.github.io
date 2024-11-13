@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Learning publicly.
+title: Abhinav Thota
 email: athota@student.ubc.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to where I will document my coding journey. Projects. CV. Learnings and more.
