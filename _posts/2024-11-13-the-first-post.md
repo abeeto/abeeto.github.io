@@ -4,7 +4,7 @@ date: 2024-11-13
 ---
 # Becoming a better developer
 Hey I'm deciding to build a blog to act as a way to log my progress and share my learning journey to the online world.
-Mostly for myself. I recently read a post about "Learning In Public (LIP)" by [https://www.swyx.io/learn-in-public]swyx.io who really reaffirmed my desire to share what I'm learning.
+Mostly for myself. I recently read a post about "Learning In Public (LIP)" by [swyx.io](https://www.swyx.io/learn-in-public) who really reaffirmed my desire to share what I'm learning.
 
 Now I don't actually expect a single person to stumble onto this page. Would be awesome, but the internet is a big place and I'm just one of billions sitting in front of a laptop. But, my hope is that by dumping out my own learnings and synthesising all the info I get, I can become a better developer faster. 
 
