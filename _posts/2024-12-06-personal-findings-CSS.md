@@ -13,7 +13,7 @@ Now, this may or may not be true, and I'll leave that for you to decide and scou
 
 But one thing for sure is that perception has hindered me from really taking the time to learn CSS. I always felt that it should be easy and I would be better off using my time to learn technologies more *worthy* of my time. And that a few selectors and attributes are all I need to remember.
 
-How wrong I was. CSS is not easy. And the constant high brow look on it, makes it hard to give it the respect, it quite frankly deserves. Making webpages render correctly on multiple browser engines, screen sizes and devices is no small feat. CSS does a lot of heavy lifting and I think taking time I dig past the surface has been very beneficial.
+How wrong I was. CSS is not easy. And the constant high brow look on it, makes it hard to give it the respect, it quite frankly deserves. Making webpages render correctly on multiple browser engines, screen sizes and devices is no small feat. CSS does a lot of heavy lifting and I think taking time to dig past the surface has been very beneficial.
 
 ## 2. Tables and Forms are hard.
 Oh boy, I was not expecting this. But it's true, tables and forms, two seemingly easy things to design, are not that easy indeed. 
@@ -24,7 +24,7 @@ True customization might just need you to be build your own implementation of th
 
 Things like pseudo-elements simply don't work on input elements, and often need wrapper divs around them. (These can be useful to toggle a message to the user about the form)
 
-So the next time, you find that an input element doesn't look the way you want, pause, and take a look at the documentation.
+So the next time, you find that an input element doesn't look the way you want, pause, it may just be that you stumbled on a quirk and have a look at the documentation before you pull any hair out.
 
 ## 3. CSS has come a long way
 
@@ -38,9 +38,9 @@ CSS forms have pseudo-classes such as invalid that can help figure out if your f
 
 But it does save you some Javascript.
 
-And I think the point is, CSS is ever-changing, learning to adapt to the requirements of developers and the web. You can never really sit back and think you understand it all.
+I think the point is, CSS is ever-changing, learning to adapt to the requirements of developers and the web. You can never really sit back and think you understand it all.
 
-And that's okay.
+And that's okay because the new changes are here to make your life simpler. And if you don't learn that's fine too, what you know will always be compatible.
 
 ## 4. A bit more on intrinsic design
 
@@ -58,9 +58,9 @@ It's awesome and I wish I learned it sooner. Trust me it's not just another flex
 ## Thought on the TOP intermediate HTML & CSS
 This part of the course was jarring to me, I had just finished building a calculator using vanilla HTML, CSS and JS and was excited to dive deep into the world of JS. So the sit down and push to learn more CSS, wasn't that exciting, if I'll be honest. 
 
-But I learned a tonne. Some things made me better at writing up code. The section on using Emmet has transformed the way I write up HTML. The stuff on CSS grid, I think will be used by me, for a long time coming. And now I won't be too unhappy if I can't get a form designed my way easily, in fact, I might just lean towards a prebuilt library from the start, because, why reinvent possibly the most valuable page in your site when there's people who've built and tested great looking and, more importantly, functional forms?
+But I learned a tonne. The section on using Emmet has transformed the way I write up HTML. Learning CSS grid was a great investment of time. And now I won't be too unhappy if I can't get a form designed my way easily, in fact, I might just lean towards a prebuilt library from the start, because, why reinvent possibly the most valuable page in your site when there's people who've built and tested great looking and, more importantly, functional forms?
 
-There's still a lot more I need to learn, especially on making things work on different screen sizes and organizing my css better. But this course helped me tremendously, and I was pretty happy with the page I built using simple vanilla CSS and HTML. Check it out [here](https://abeeto.github.io/odin-admin-dashboard/)
+There's still a lot more I need to learn, especially on making things work on different screen sizes and organizing my css better. But this course helped me tremendously, and I was pretty happy with the final page I built using simple vanilla CSS and HTML. Check it out [here](https://abeeto.github.io/odin-admin-dashboard/)
 
 That's all for now, see ya.
 abeetos
